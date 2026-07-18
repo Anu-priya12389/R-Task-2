@@ -327,9 +327,17 @@ Add screenshots of the following outputs to the repository:
 Add screenshots of:
 
 * Transactions by City
+  <img width="1000" height="700" alt="transactions_by_city" src="https://github.com/user-attachments/assets/06db37ad-cfa8-4417-95a3-acccc5ae977b" />
+
 * Revenue by Product Category
+  <img width="1000" height="700" alt="revenue_by_category" src="https://github.com/user-attachments/assets/668fa694-dd28-4128-aa44-f8f13070c027" />
+
 * Top 20 Customers
+  <img width="1200" height="800" alt="top_20_customers" src="https://github.com/user-attachments/assets/4b1b96d8-f000-4f6c-92a8-98a885ad79b5" />
+
 * Payment Method Distribution
+  <img width="1000" height="700" alt="payment_method_distribution" src="https://github.com/user-attachments/assets/f0fd01fc-421b-4054-8480-e56857d30474" />
+
 
 Example:
 
